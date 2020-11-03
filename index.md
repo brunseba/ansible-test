@@ -40,7 +40,6 @@ Having trouble with Pages? Check out our [documentation](https://docs.github.com
 test:
 ```
 
-<!DOCTYPE html>
 <html lang="en">
    <head>
 	 <script src="https://cdnjs.cloudflare.com/ajax/libs/mermaid/8.0.0/mermaid.min.js"></script>
@@ -51,7 +50,7 @@ test:
 A--&gt;B
 </code></pre>
 
-<div class="mermaid">graph LR
+<div class="mermaid">graph TD
 A--&gt;B
 </div>
 	
